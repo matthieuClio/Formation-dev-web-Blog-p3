@@ -78,3 +78,19 @@ private $password = '';
 ├── .htaccess  
 ├── README.md  
 └── projet4.sql  
+
+Models: database interactions and business logic  
+Controllers: request handling and application logic  
+Views: presentation layer (HTML)  
+
+## Areas for improvement
+
+Authentication and role management (admin / user)  
+Enhanced security (CSRF protection, input validation)  
+Improved UI / UX for the back-office  
+Pagination and search for articles  
+API-oriented refactoring  
+
+## Author  
+Project by Matthieu Clio  
+Full stack JavaScript web developer
