@@ -18,7 +18,6 @@ The project simulates a real-world use case where a content creator needs to man
 - PHP (Object-Oriented Programming)
 - MySQL
 - HTML5 / CSS3
-- Apache
 - MVC architecture
 - Git / GitHub
 
